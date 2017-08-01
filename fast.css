@@ -12,7 +12,7 @@
 	background-color:#373c64;
 }
 .wrapper .header .web-head .web-head-img{
-	background: url(deb.png) 15px;
+	background: url(./img/deb.png) 15px;
 	height: 94px;
 	background-repeat: no-repeat;
 	margin: 0 auto;
@@ -217,7 +217,7 @@
 	padding: 0 24px 0 19px;
 	font-weight: 400;
 	font-size: 12px;
-	background: url(prevIcon.png) no-repeat;
+	background: url(./img/prevIcon.png) no-repeat;
 	background-position: 12px center;
 }
 #page .pagebox .next{
@@ -227,7 +227,7 @@
 	padding: 0 24px 0 19px;
 	font-weight: 400;
 	font-size: 12px;
-	background: url(nextIcon.png) no-repeat;
+	background: url(./img/nextIcon.png) no-repeat;
 	background-position: 59px center;
 }
 #page .pagebox li:hover{
